@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
-# Prints all processes in axu and full format.
-ps faxu
+# This script displays a list of currently running processes
+
+ps auxf
